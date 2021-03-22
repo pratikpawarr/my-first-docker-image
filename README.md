@@ -1,1 +1,0 @@
-# my-first-docker-image
